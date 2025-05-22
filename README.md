@@ -15,7 +15,7 @@
 
 ## Setup and Usage
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/Aryanjali-25/AI-Resume-Ranker.git
 
 2. Navigate to the project directory: cd resume-analyzer
 
@@ -28,7 +28,7 @@
 5. Access the app in your web browser at `http://localhost:5000`.
 
 ## :file_folder: Directory Structure
-
+----------
 ├── app.py
 ├── static/
 │   └── styles.css
@@ -39,7 +39,7 @@
 ├── README.md
 └── .gitignore
 
-
+----------
 
 ## Inspiration
 
