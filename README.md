@@ -38,7 +38,6 @@
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
 ----------
 
 ## Inspiration
